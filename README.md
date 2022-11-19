@@ -1,4 +1,4 @@
-### Hi there 👋
+### I AM KEERTHANA
 - 🔭 I’m currently pursuing @arunai engineering college
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me:likedin https://www.linkedin.com/in/keerthana-panjatcharam-a9b309211/

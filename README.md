@@ -17,4 +17,15 @@
  ### TOOLS I USE
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
    
+   
+   
+   
+[![KEERTHANA'Sgithub stats](https://github-readme-stats.vercel.app/api?username=KEERTHANA&hide=issues,contribs&theme=dark)](https://github.com/Keerthuuu/keerthuuu/edit/main/README.md)
+
+<br>
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=hareeshprogrammer&theme=auto&width=346)](https://leetcode.com/hareeshprogrammer)
+
+<br>
+
 [![KEERTHANA'S  github activity graph](https://activity-graph.herokuapp.com/graph?username=KEERTHANA&theme=react-dark)](https://github.com/Keerthuuu/keerthuuu/edit/main/README.md)

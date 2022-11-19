@@ -26,5 +26,3 @@
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=KEERTHANA&theme=auto&width=346)](https://leetcode.com/KEERTHANAprogrammer)
 
 <br>
-
-[![KEERTHANA'S  github activity graph](https://activity-graph.herokuapp.com/graph?username=KEERTHANA&theme=react-dark)](https://github.com/Keerthuuu/keerthuuu/edit/main/README.md)

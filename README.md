@@ -24,7 +24,7 @@
 
 <br>
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=KEERTHANAprogrammer&theme=auto&width=346)](https://leetcode.com/KEERTHANAprogrammer)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=KEERTHANA&theme=auto&width=346)](https://leetcode.com/KEERTHANAprogrammer)
 
 <br>
 

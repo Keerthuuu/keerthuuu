@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently pursuing @arunai engineering college
 - 🌱 I’m currently learning javascript
-- 📫 How to reach mE:<br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keerthana-panjatcharam-a9b309211/)
+- 📫 How to reach mE:[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keerthana-panjatcharam-a9b309211/)
 - 📫 How to reach me:Gmail keerthu1132003@gmail.com
 
 
@@ -21,7 +21,7 @@
 
 [![KEERTHANA'Sgithub stats](https://github-readme-stats.vercel.app/api?username=KEERTHANA&hide=issues,contribs&theme=dark)](https://github.com/Keerthuuu/keerthuuu/edit/main/README.md)
 
-<br>
+
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=KEERTHANA&theme=auto&width=346)](https://leetcode.com/KEERTHANAprogrammer)
 
